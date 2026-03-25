@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Pratik 👋
 
-<!--
-**pratik-etl/pratik-etl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Engineer  
+💻 Software Engineer at Madul Take Software Pvt Ltd  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- SQL
+- Python
+- Apache Spark
+- Azure
+
+---
+
+## 📊 Projects
+- E-commerce ETL Project (Python + SQL + MySQL)
+
+---
+
+## 🎯 Goal
+Transitioning from Software Engineer to Data Engineer
+
+---
+
